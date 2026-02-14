@@ -30,11 +30,12 @@ chmod +x wacom_*.sh
 ./wacom_frego_resize16x10.sh
 ./wacom_frego_resize16x9.sh
 ./wacom_reset.sh
+```
 
 ## Shorcut
 
-Store the .sh file in /home/ldc/.local/bin  and in `Custom Shortcut`add a shortcut with `+` give for example:
+Store the .sh file in /home/ldc/.local/bin, in `Custom Shortcut`add a shortcut with `+` and give for example:
   - *Name*: Wacom Resize FregoM16x9
-  - *Command: /home/ldc/.local/bin/wacom_frego_resize16x9.sh 
-  - Shortcut: Alt + N
+  - *Command*: /home/ldc/.local/bin/wacom_frego_resize16x9.sh 
+  - *Shortcut*: Alt + N
 
